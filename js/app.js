@@ -22,7 +22,7 @@ function cargarPortafolio() {
                 </div>
             `;            
         });
-        // despues de recorrer, lo inyectamos
+        // we go through the arrangement and inject it
         document.querySelector('#listado').innerHTML = html;
     })
     .catch(function(error) {
