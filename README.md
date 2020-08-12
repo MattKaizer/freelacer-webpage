@@ -1,6 +1,6 @@
 # Freelancer Web Page
 
-[link-to-netlify-or-heroku](http://google.com)
+[Link to preview](https://mattkaizer.github.io/freelacer-webpage/)
 
 ### Simple Portfolio web
 
